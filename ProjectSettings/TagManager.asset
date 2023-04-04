@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Enemy
+  - Cherry
+  - Gem
+  - Ladder
+  - EnemyPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Terrain
+  - GroundDetector
+  - Item
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4287065089
+    locked: 0
+  - name: Terrain
+    uniqueID: 3213078247
+    locked: 0
+  - name: Ladders
+    uniqueID: 510589453
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Vegetation
+    uniqueID: 1853637815
+    locked: 0

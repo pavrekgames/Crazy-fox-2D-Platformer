@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18fe8ebff7403af42996d4028a184fda, type: 3}
+  m_Name: Level_4
+  m_EditorClassIdentifier: 
+  level: 4
+  requiredCherriesAmount: 3
+  gemsAmount: 0
+  backgroundMusic: {fileID: 8300000, guid: 57f12d84ebf04324e92e37dc70ac26b1, type: 3}
+  startPoint: {x: -27.92, y: -7.58, z: 0}
