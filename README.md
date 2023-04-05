@@ -4,16 +4,16 @@ Simple 2D platformer game where you must collect cherries and reach the certain 
 
 USED PACKAGES:
 
-* --- - Sprites, animations, Tile pallet
-* DoTween - To animate the moving platforms
-* New Input System - Player moevement
+* SunnyLand Artwork - Sprites, animations, Tile pallet
+* DOTween (HOTween v2) - To animate the moving platforms
+* New Input System - Player movement
 
 FEATURES:
 
 - Player can move left and right
 - Player can jump
 - Player can climb up and down on ladders
-- Player dies when he touches spikes, holes, or an enem
+- Player dies when he touches spikes, holes, or an enemy
 - Player has 3 lives on the level
 - Player has to collect the required amount of cherries and reach the finish point to complete level
 - Player can collect gems ( The gem is a particular item that is hard to collect.)
