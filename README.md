@@ -40,3 +40,5 @@ USED DESIGN PATTERNS:
 
 SCREENSHOTS
 
+![CrazyFoxScreen_1](https://github.com/pavrekgames/Crazy-fox-2D-Platformer/assets/105421661/bcc6a848-8f45-4b51-8d9c-b21be737bf50)
+
