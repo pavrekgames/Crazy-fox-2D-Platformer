@@ -42,3 +42,13 @@ SCREENSHOTS
 
 ![CrazyFoxScreen_1](https://github.com/pavrekgames/Crazy-fox-2D-Platformer/assets/105421661/bcc6a848-8f45-4b51-8d9c-b21be737bf50)
 
+![CrazyFoxScreen_2](https://github.com/pavrekgames/Crazy-fox-2D-Platformer/assets/105421661/79ba8c38-84e2-4ebb-b423-4bb574ecf1a5)
+
+![CrazyFoxScreen_3](https://github.com/pavrekgames/Crazy-fox-2D-Platformer/assets/105421661/295c9cb4-4a98-4538-abfc-4f424cae2bed)
+
+![CrazyFoxScreen_4](https://github.com/pavrekgames/Crazy-fox-2D-Platformer/assets/105421661/7beb0b03-407c-496c-9964-a908f61f468b)
+
+![CrazyFoxScreen_5](https://github.com/pavrekgames/Crazy-fox-2D-Platformer/assets/105421661/782fadb7-f103-4973-8c8f-9e45edf39c36)
+
+
+
