@@ -37,3 +37,8 @@ USED DESIGN PATTERNS:
 - State Pattern: Default moving of player and moving on ladders.
 - Strategy Pattern: Enemies' behavior
 - Prototype Pattern: Scriptable objects of levels data
+
+SCREENSHOTS
+
+![CrazyFoxScreen_1](https://github.com/pavrekgames/Crazy-fox-2D-Platformer/assets/105421661/0e6817ea-fa8e-4a64-934c-b483b4fd72e9)
+
